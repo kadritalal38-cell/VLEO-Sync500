@@ -1,4 +1,4 @@
-# VLEO-Sync500<img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/3c6822d9-5997-4ff2-83cd-0db87a7e4a2a" /># 🛰️ VLEO Hybrid Swarm GNC Architecture (v5.2)
+<img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/3c6822d9-5997-4ff2-83cd-0db87a7e4a2a" /># 🛰️ VLEO Hybrid Swarm GNC Architecture (v5.2)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-HIL%20Flight%20Ready-blue?style=for-the-badge&logo=rocket" alt="HIL Ready">
@@ -14,9 +14,7 @@
 **Primary Application:** **Commercial & Civilian Space Operations** (Earth Observation, High-Resolution Telecommunications, and Environmental Monitoring in Very Low Earth Orbit).  
 **Lead Inventor & Architect:** **Mohamed Talal Kadri**  
 **Intellectual Property Hash:** `IP-MARS-SWARM-MTK-2026-CONFIDENTIAL`  
-```
-> **Peaceful Commercial Purpose Notice:** 
-> **VLEO-Sync500** is strictly a commercial and civilian project dedicated to Earth observation, environmental monitoring, and telecommunications. **It has no military application or affiliation whatsoever.** It is developed under an exceptional low-cost, high-efficiency paradigm designed for sustainable and affordable commercial space scalability.
+
 This repository serves as the public documentation and interface portal for an advanced **Real-Time Guidance, Navigation, and Control (GNC)** framework. It is architected specifically for ultra-dense, distributed satellite swarms operating in the challenging Very Low Earth Orbit (VLEO) environment. 
 
 ---
