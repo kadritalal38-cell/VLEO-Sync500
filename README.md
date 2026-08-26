@@ -14,7 +14,9 @@
 **Primary Application:** **Commercial & Civilian Space Operations** (Earth Observation, High-Resolution Telecommunications, and Environmental Monitoring in Very Low Earth Orbit).  
 **Lead Inventor & Architect:** **Mohamed Talal Kadri**  
 **Intellectual Property Hash:** `IP-MARS-SWARM-MTK-2026-CONFIDENTIAL`  
-
+```
+> **Peaceful Commercial Purpose Notice:** 
+> **VLEO-Sync500** is strictly a commercial and civilian project dedicated to Earth observation, environmental monitoring, and telecommunications. **It has no military application or affiliation whatsoever.** It is developed under an exceptional low-cost, high-efficiency paradigm designed for sustainable and affordable commercial space scalability.
 This repository serves as the public documentation and interface portal for an advanced **Real-Time Guidance, Navigation, and Control (GNC)** framework. It is architected specifically for ultra-dense, distributed satellite swarms operating in the challenging Very Low Earth Orbit (VLEO) environment. 
 
 ---
