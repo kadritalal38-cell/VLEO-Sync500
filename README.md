@@ -38,8 +38,13 @@ This repository serves as the public documentation and interface portal for an a
 
 > **NOTE:** **The core source code, proprietary algorithms, and core implementation files are strictly private, closed-source, and secured.** This public repository contains documentation and architectural overviews only.
 
-```text
 ├── 📂 docs/                     # High-level technical overviews and compliance notes
 ├── 📄 README.md                 # Project manifesto, specifications, and contact portal
 ├── 📄 .gitignore                # Secure exclusion rules for build artifacts and binaries
 └── 📄 LICENSE                   # Proprietary IP and All Rights Reserved notice
+
+---
+
+## 📞 Ownership & Contact
+* **Sole Owner & Inventor:** **Mohamed Talal Kadri**
+* **For Inquiries & Review (Email):** kadritalal84@gmail.com
