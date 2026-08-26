@@ -1,4 +1,4 @@
-<img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/3c6822d9-5997-4ff2-83cd-0db87a7e4a2a" /># 🛰️ VLEO Hybrid Swarm GNC Architecture (v5.2)
+# 🛰️ VLEO Hybrid Swarm GNC Architecture (v5.2)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-HIL%20Flight%20Ready-blue?style=for-the-badge&logo=rocket" alt="HIL Ready">
@@ -6,6 +6,11 @@
   <img src="https://img.shields.io/badge/Class-500g%20PocketQube-orange?style=for-the-badge&logo=satellites" alt="500g Class">
   <img src="https://img.shields.io/badge/Application-Commercial%20Civilian-informational?style=for-the-badge&logo=earth" alt="Civilian">
 </p>
+
+---
+
+> **Strategic & Commercial Declaration:**  
+> This project represents a complete and comprehensive engineering and developmental innovation, designed and dedicated exclusively for **purely commercial and civilian applications**. The system aims to revolutionize the space sector by achieving significantly high cost-reductions in manufacturing and operations, and it remains **strictly and entirely outside any military scope**.
 
 ---
 
