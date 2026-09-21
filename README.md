@@ -1,4 +1,5 @@
-A low-cost CubeSat propulsion system for VLEO - Alternative to SpaceX Starlink & Enpulsion
+[PROPRIETARY & COMMERCIAL ARCHITECTURE] A proprietary, closed-source CubeSat propulsion and GNC system designed for VLEO orbits - A commercial alternative to SpaceX Starlink & Enpulsion.
+
 
 # 🛰️ VLEO Hybrid Swarm GNC Architecture (v5.2)
 <img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/09b63bd5-7972-4d02-8104-6b4ccd6c095c" />
