@@ -2,6 +2,8 @@
 
 
 # 🛰️ VLEO Hybrid Swarm GNC Architecture (v5.2)
+<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/7ad3f2d0-1f11-4701-8461-d4b05abf1cef" />
+<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/274a3d1e-0549-4fe2-9500-eb52934051f3" />
 <img width="1408" height="768" alt="Image" src="https://github.com/user-attachments/assets/09b63bd5-7972-4d02-8104-6b4ccd6c095c" />
 <p align="center">
   <img src="https://img.shields.io/badge/Status-HIL%20Flight%20Ready-blue?style=for-the-badge&logo=rocket" alt="HIL Ready">
