@@ -53,4 +53,5 @@ This repository serves as the public documentation and interface portal for an a
 
 ## 📞 Ownership & Contact
 * **Sole Owner & Inventor:** **Mohamed Talal Kadri**
-* **For Inquiries & Review (Email):** kadritalal84@gmail.com
+* **For Inquiries & Review (Email):**
+* kadritalal38@gmail.com * kadritalal84@gmail.com
